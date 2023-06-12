@@ -22,9 +22,8 @@ For the grid of cells, I used a series of tkinter.Button widgets arranged in a g
 The game logic works as the model, which manages the data, logic, and rules of the game.
 ___
 
-## A tic-tac-toe game built with Python and Tkinter.
+## To run the program:
 
-**To run the program:**
 With python 3, install tkinter module using brew manager:
 
 ```
